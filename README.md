@@ -1,5 +1,5 @@
-this is a **webfullsympathy**'s project archive
+this is a **webfullsympathy**'s project archive.
 
-project name is **iomctokyostorage**
+project name is **iomctokyostorage**.
 
-Rest In Peace
+The original author has deleted his account.
